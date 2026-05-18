@@ -762,7 +762,7 @@ html {
 
 .card-wrapper {
     display: flex; 
-    gap: 20px;        
+    gap: 20px; 
 }
 
 
@@ -810,6 +810,7 @@ html {
     font-size: 14px;
     cursor: pointer;
     font-family: 'poppins', sans-serif;
+    margin-top: 5px;
 }
 
 .card {
