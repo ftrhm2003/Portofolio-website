@@ -532,7 +532,6 @@ html {
     height: auto;
     padding: 20px 50px;
     max-width: 1400px;
-    display: flex;
     flex-direction: column; 
     justify-content: center;
 }
