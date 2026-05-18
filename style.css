@@ -373,11 +373,10 @@ html {
     }   
 
     .home .word .job {
-        font-size: 60px;
+        /* font-size: 50px; */
         margin-bottom: 10px;
         font-weight: 900; 
         text-transform: uppercase; 
-        letter-spacing: -0.05em; 
         line-height: 0.9; 
         color: white;  
         letter-spacing: 1px;
@@ -386,10 +385,22 @@ html {
         margin-right: 0;
         width: 100%;
         display: block;
+        text-align: center;
+
+        font-size: clamp(2rem, 11vw, 3.5rem); 
+        /* margin-bottom: 15px; */
+        /* font-weight: 900; 
+        text-transform: uppercase;  */
+        /* line-height: 1.1; 
+        /* color: white;   */
+        /* letter-spacing: 1px; */
+        /* width: 100%; */
+        /* display: block; */
+        word-wrap: break-word;
     }
 
     .home .word .name {
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 400; 
         text-transform: uppercase; 
         letter-spacing: 0.1em; 
@@ -398,7 +409,7 @@ html {
     }
 
     .home .word .desc {
-        font-size: 13px;
+        font-size: 11px;
         line-height: 1.5;
         color: rgb(117, 116, 116);
         margin-bottom: 10px;
@@ -420,13 +431,15 @@ html {
 
     .home .img img {
         margin-top: auto;
-        width: 250px;
-        height: 250px;
+        width: 200px;
+        height: 200px;
         border: 5px solid #7456FF;
         object-fit: cover;
         border-radius: 10px;
     }
 }
+
+
 
 @media (min-width: 481px) and (max-width: 780px) {
    .home {
