@@ -529,6 +529,7 @@ html {
     width: 100%;
     height: auto;
     padding: 20px 50px;
+    max-width: 1400px;
 }
 
 .ex-atas {
