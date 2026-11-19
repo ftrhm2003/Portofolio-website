@@ -60,10 +60,10 @@ const daftarProjek = [
         link: "https://github.com/ftrhm2003/Absensi_foto.git"
     },
     {
-        judul: "VPN UI/UX APP DESIGN",
-        desc: "Created detailed high-fidelity screen designs and custom UI components for a VPN application, crafted entirely from scratch using Figma.",
-        img: "assets/vpn.png",
-        link: "https://www.figma.com/design/cvLjW5z89HDzxcR0cTT9gc/Vpntreee?node-id=202-2&t=8Th7gJvbQnvnh8HV-1"
+        judul: "Dynamic Product Catalog with External API",
+        desc: "A clean e-commerce landing page and dynamic catalog integrating external API data with HTML, CSS, Bootstrap, and JavaScript.",
+        img: "assets/store-api.jpg",
+        link: "https://github.com/ftrhm2003/Store-api.git"
     },
     {
         judul: "FORM BUILDER WHATSAPP INTEGRATED",
