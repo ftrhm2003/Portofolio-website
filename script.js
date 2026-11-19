@@ -50,7 +50,7 @@ const daftarProjek = [
     {
         judul: "AE-SYSTEM INVENTORY WEBSITE",
         desc: "AE System: A comprehensive inventory management platform for tracking stock, shipments, and retail sales using PHP and MySQL.",
-        img: "assets/aesistem.png",
+        img: "assets/ae final.png",
         link: "https://github.com/ftrhm2003/AE_system_inventory.git"
     },
     {
